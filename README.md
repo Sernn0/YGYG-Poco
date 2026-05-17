@@ -1,6 +1,6 @@
 <img width="873" height="218" alt="title" src="https://github.com/user-attachments/assets/db2e6bfa-d577-4061-99ae-107bae0ee3b1" />
-한남대학교 멋쟁이사자처럼 14기
-팀 야무진사자
+한남대학교 멋쟁이사자처럼 14기, 팀 "야무진사자"
+
 - 컴퓨터공학과 윤여명 (기획, 개발)
 - 컴퓨터공학과 김다인 (디자인, 기획)
 - 멀티미디어공학과 & 컴퓨터공학과 최은정 (디자인, 개발)
